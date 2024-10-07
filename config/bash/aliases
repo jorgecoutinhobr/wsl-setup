@@ -1,0 +1,16 @@
+alias ..='cd ..'
+alias ...='cd ../..'
+alias ....='cd ../../..'
+
+alias n='nvim'
+alias g='git'
+alias d='docker'
+alias r='rails'
+
+alias gcm='git commit -m'
+
+alias u='sudo apt update'
+alias i='sudo apt install'
+
+compress() { tar -czf "${1%/}.tar.gz" "${1%/}"; }
+alias decompress="tar -xzf"
