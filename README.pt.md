@@ -1,7 +1,5 @@
 # wsl-setup
 
-## Minha Configuração Pessoal para Desenvolvimento no WSL
-
 [Read in English](README.md)
 
 Este repositório contém minha configuração pessoal para desenvolvimento no WSL.
