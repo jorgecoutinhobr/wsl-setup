@@ -1,7 +1,5 @@
 # wsl-setup
 
-## My Personal Setup for Development on WSL
-
 [Leia em Português](README.pt.md)
 
 This repository contains my personal setup for development on WSL.
