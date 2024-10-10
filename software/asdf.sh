@@ -14,7 +14,7 @@ asdf plugin add nodejs
 asdf install ruby 3.3.4
 asdf global ruby 3.3.4
 
-asdf install nodejs 20.17.0
-asdf global nodejs 20.17.0
+asdf install nodejs 20.18.0
+asdf global nodejs 20.18.0
 
 npm install -g yarn
