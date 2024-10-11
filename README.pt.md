@@ -35,7 +35,7 @@ Esta configuração inclui:
 
 - **Tema do Terminal**: https://windowsterminalthemes.dev/?theme=TokyoNight
 - **PowerToys**: [Saiba mais](https://github.com/microsoft/PowerToys)
-- **Nerd Fonts**: Adiciona ícones ao usar o `eza`. [Saiba mais](https://www.nerdfonts.com/)
+- **Nerd Fonts**: [Saiba mais](https://www.nerdfonts.com/)
 
 ## Problemas
 

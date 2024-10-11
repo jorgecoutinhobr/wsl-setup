@@ -35,7 +35,7 @@ This setup includes:
 
 - **Terminal Theme**: https://windowsterminalthemes.dev/?theme=TokyoNight
 - **PowerToys**: [Learn more](https://github.com/microsoft/PowerToys)
-- **Nerd Fonts**: Adds icons when using `eza`. [Learn more](https://www.nerdfonts.com/)
+- **Nerd Fonts**: [Learn more](https://www.nerdfonts.com/)
 
 
 ## Troubleshooting
