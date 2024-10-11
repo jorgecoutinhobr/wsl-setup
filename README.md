@@ -29,11 +29,13 @@ This setup includes:
 - **zoxide**: A smarter cd command for navigating your filesystem. [Learn more](https://github.com/ajeetdsouza/zoxide)
 - **git and bash aliases**: Custom bindings and aliases. Refer to the configuration files in `config/bash/aliases` and `software/git-alias`.
 - **nvim**: A text editor. [Learn more](https://neovim.io/)
-
+- **eza**: A modern replacement for `ls` with more features. [Learn more](https://github.com/eza-community/eza)
+ 
 ## Also use
 
 - **Terminal Theme**: https://windowsterminalthemes.dev/?theme=TokyoNight
 - **PowerToys**: [Learn more](https://github.com/microsoft/PowerToys)
+- **Nerd Fonts**: Adds icons when using `eza`. [Learn more](https://www.nerdfonts.com/)
 
 
 ## Troubleshooting
