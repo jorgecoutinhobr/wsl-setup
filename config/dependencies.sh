@@ -1,1 +1,1 @@
-sudo apt-get install -y git-core zlib1g-dev libssl-dev libreadline-dev libyaml-dev libsqlite3-dev sqlite3 libxml2-dev libxslt1-dev libcurl4-openssl-dev software-properties-common libffi-dev
+sudo apt-get install -y git-core zlib1g-dev libssl-dev libreadline-dev libyaml-dev build-essential libsqlite3-dev sqlite3 libxml2-dev libxslt1-dev libcurl4-openssl-dev software-properties-common libffi-dev libgdbm-dev libncurses5-dev libgmp-dev
