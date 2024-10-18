@@ -1,4 +1,5 @@
 #!/bin/bash
+sudo apt-get update
 sudo apt-get install -y curl unzip build-essential
 
 source ~/.local/share/wsl-setup/config/dependencies.sh
